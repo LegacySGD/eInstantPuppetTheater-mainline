@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="zh_CN">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="总奖金"/>
+<phrase key="totalWager" value="总投注"/>
+<phrase key="reveal" value="披露"/>
+<phrase key="prizeAmount" value="奖金总额"/>
+<phrase key="miss" value="错过"/>
+<phrase key="bonus" value="奖金"/>
+<phrase key="instantWin" value="即开奖"/>
+</translation>

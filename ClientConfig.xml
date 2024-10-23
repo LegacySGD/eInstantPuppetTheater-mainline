@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="The Lucky Forest" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="PuppetTheater" enableFreeSpin="N" clientversion="1.0" gameId="300-2035-0"/>
+	<GameClient name="The Lucky Forest" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="PuppetTheater" enableFreeSpin="N" clientversion="1.0" gameId="300-2035-0"/>
+	<GameClient name="The Lucky Forest" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="PuppetTheater" enableFreeSpin="N" clientversion="1.0" gameId="300-2035-0"/>
+</ClientConfig>
